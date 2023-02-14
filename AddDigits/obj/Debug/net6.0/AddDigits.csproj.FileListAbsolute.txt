@@ -1,0 +1,15 @@
+C:\Users\eppy_\source\repos\LeetCode2\AddDigits\obj\Debug\net6.0\AddDigits.csproj.AssemblyReference.cache
+C:\Users\eppy_\source\repos\LeetCode2\AddDigits\obj\Debug\net6.0\AddDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eppy_\source\repos\LeetCode2\AddDigits\obj\Debug\net6.0\AddDigits.AssemblyInfoInputs.cache
+C:\Users\eppy_\source\repos\LeetCode2\AddDigits\obj\Debug\net6.0\AddDigits.AssemblyInfo.cs
+C:\Users\eppy_\source\repos\LeetCode2\AddDigits\obj\Debug\net6.0\AddDigits.csproj.CoreCompileInputs.cache
+C:\Users\eppy_\source\repos\LeetCode2\AddDigits\bin\Debug\net6.0\AddDigits.exe
+C:\Users\eppy_\source\repos\LeetCode2\AddDigits\bin\Debug\net6.0\AddDigits.deps.json
+C:\Users\eppy_\source\repos\LeetCode2\AddDigits\bin\Debug\net6.0\AddDigits.runtimeconfig.json
+C:\Users\eppy_\source\repos\LeetCode2\AddDigits\bin\Debug\net6.0\AddDigits.dll
+C:\Users\eppy_\source\repos\LeetCode2\AddDigits\bin\Debug\net6.0\AddDigits.pdb
+C:\Users\eppy_\source\repos\LeetCode2\AddDigits\obj\Debug\net6.0\AddDigits.dll
+C:\Users\eppy_\source\repos\LeetCode2\AddDigits\obj\Debug\net6.0\refint\AddDigits.dll
+C:\Users\eppy_\source\repos\LeetCode2\AddDigits\obj\Debug\net6.0\AddDigits.pdb
+C:\Users\eppy_\source\repos\LeetCode2\AddDigits\obj\Debug\net6.0\AddDigits.genruntimeconfig.cache
+C:\Users\eppy_\source\repos\LeetCode2\AddDigits\obj\Debug\net6.0\ref\AddDigits.dll

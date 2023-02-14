@@ -1,0 +1,15 @@
+C:\Users\eppy_\source\repos\LeetCode2\LeetCode2\bin\Debug\net6.0\PowerofTwo.exe
+C:\Users\eppy_\source\repos\LeetCode2\LeetCode2\bin\Debug\net6.0\PowerofTwo.deps.json
+C:\Users\eppy_\source\repos\LeetCode2\LeetCode2\bin\Debug\net6.0\PowerofTwo.runtimeconfig.json
+C:\Users\eppy_\source\repos\LeetCode2\LeetCode2\bin\Debug\net6.0\PowerofTwo.dll
+C:\Users\eppy_\source\repos\LeetCode2\LeetCode2\bin\Debug\net6.0\PowerofTwo.pdb
+C:\Users\eppy_\source\repos\LeetCode2\LeetCode2\obj\Debug\net6.0\PowerofTwo.csproj.AssemblyReference.cache
+C:\Users\eppy_\source\repos\LeetCode2\LeetCode2\obj\Debug\net6.0\PowerofTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eppy_\source\repos\LeetCode2\LeetCode2\obj\Debug\net6.0\PowerofTwo.AssemblyInfoInputs.cache
+C:\Users\eppy_\source\repos\LeetCode2\LeetCode2\obj\Debug\net6.0\PowerofTwo.AssemblyInfo.cs
+C:\Users\eppy_\source\repos\LeetCode2\LeetCode2\obj\Debug\net6.0\PowerofTwo.csproj.CoreCompileInputs.cache
+C:\Users\eppy_\source\repos\LeetCode2\LeetCode2\obj\Debug\net6.0\PowerofTwo.dll
+C:\Users\eppy_\source\repos\LeetCode2\LeetCode2\obj\Debug\net6.0\refint\PowerofTwo.dll
+C:\Users\eppy_\source\repos\LeetCode2\LeetCode2\obj\Debug\net6.0\PowerofTwo.pdb
+C:\Users\eppy_\source\repos\LeetCode2\LeetCode2\obj\Debug\net6.0\PowerofTwo.genruntimeconfig.cache
+C:\Users\eppy_\source\repos\LeetCode2\LeetCode2\obj\Debug\net6.0\ref\PowerofTwo.dll
