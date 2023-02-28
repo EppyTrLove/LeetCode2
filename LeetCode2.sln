@@ -9,9 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddDigits", "AddDigits\AddD
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MissingNumber", "MissingNumber\MissingNumber.csproj", "{FE1BA4D8-10B3-4C3D-AF62-A5F807610ED9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UglyNumber", "UglyNumber\UglyNumber.csproj", "{17C67E2D-6F61-411A-98E3-4D86524C854B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UglyNumber", "UglyNumber\UglyNumber.csproj", "{17C67E2D-6F61-411A-98E3-4D86524C854B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveZeroes", "MoveZeroes\MoveZeroes.csproj", "{2F49668F-D247-4AF8-BC4B-D5A1C4F7E1E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoveZeroes", "MoveZeroes\MoveZeroes.csproj", "{2F49668F-D247-4AF8-BC4B-D5A1C4F7E1E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "ReverseString\ReverseString.csproj", "{64933E5A-27F7-41D5-BFA1-9907338E0C23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersectionTwoArrays", "IntersectionTwoArrays\IntersectionTwoArrays.csproj", "{58B514CB-5CE0-42F1-A385-0E1980658197}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{2F49668F-D247-4AF8-BC4B-D5A1C4F7E1E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F49668F-D247-4AF8-BC4B-D5A1C4F7E1E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F49668F-D247-4AF8-BC4B-D5A1C4F7E1E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64933E5A-27F7-41D5-BFA1-9907338E0C23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64933E5A-27F7-41D5-BFA1-9907338E0C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64933E5A-27F7-41D5-BFA1-9907338E0C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64933E5A-27F7-41D5-BFA1-9907338E0C23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58B514CB-5CE0-42F1-A385-0E1980658197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58B514CB-5CE0-42F1-A385-0E1980658197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58B514CB-5CE0-42F1-A385-0E1980658197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58B514CB-5CE0-42F1-A385-0E1980658197}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
