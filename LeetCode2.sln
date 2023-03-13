@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UglyNumber", "UglyNumber\Ug
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoveZeroes", "MoveZeroes\MoveZeroes.csproj", "{2F49668F-D247-4AF8-BC4B-D5A1C4F7E1E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "ReverseString\ReverseString.csproj", "{64933E5A-27F7-41D5-BFA1-9907338E0C23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseString", "ReverseString\ReverseString.csproj", "{64933E5A-27F7-41D5-BFA1-9907338E0C23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersectionTwoArrays", "IntersectionTwoArrays\IntersectionTwoArrays.csproj", "{58B514CB-5CE0-42F1-A385-0E1980658197}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntersectionTwoArrays", "IntersectionTwoArrays\IntersectionTwoArrays.csproj", "{58B514CB-5CE0-42F1-A385-0E1980658197}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstUniqueChar", "FirstUniqueChar\FirstUniqueChar.csproj", "{EDE387DE-1111-4AC2-A930-B29098784F21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{58B514CB-5CE0-42F1-A385-0E1980658197}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58B514CB-5CE0-42F1-A385-0E1980658197}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58B514CB-5CE0-42F1-A385-0E1980658197}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDE387DE-1111-4AC2-A930-B29098784F21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE387DE-1111-4AC2-A930-B29098784F21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE387DE-1111-4AC2-A930-B29098784F21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE387DE-1111-4AC2-A930-B29098784F21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
